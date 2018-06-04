@@ -1,0 +1,27 @@
+one :
+  id: 1
+  nom: "first school"
+  adresse: "adresse"
+  zip_code: "69560"
+  city: "Lyon"
+  openings: "open"
+  phone: "0123456789"
+  email: "test@test.test"
+  nb_student: 123
+  status: "public"
+  latitude: 42.1359
+  longitude: 42.1564
+
+two :
+  id: 2
+  nom: "second school"
+  adresse: "adresse"
+  zip_code: "69560"
+  city: "Lyon"
+  openings: "open"
+  phone: "0123456789"
+  email: "test@test.test"
+  nb_student: 123
+  status: "priver"
+  latitude: 42.1359
+  longitude: 42.1564

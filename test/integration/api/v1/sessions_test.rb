@@ -18,7 +18,7 @@ feature "Autentication" do
       }
 
       assert_equal 200, last_response.status
-
+      #assert_equal false, json_response['auth_token'].blank?
     end
 
   end
